@@ -84,6 +84,7 @@
   }
 
   .about__description {
+    font-size: 0.9rem;
     padding: 0;
   }
 }
