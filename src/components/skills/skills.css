@@ -36,6 +36,7 @@
 }
 
 .skills .bx-badge-check {
+  margin-top: 2px;
   font-size: 1rem;
   color: var(--title-color);
 }
@@ -81,9 +82,17 @@
     column-gap: 1.25rem;
   }
 
+  .skill {
+    margin-left: 6px;
+  }
+
+  .skills .bx-badge-check {
+    margin-top: 3px;
+    font-size: 0.95rem;
+  }
+
   .skills__name {
     font-size: var(--small-font-size);
   }
-
 }
 
