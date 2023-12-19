@@ -22,7 +22,7 @@
 
 .qualification__icon {
   font-size: 1.8rem;
-  margin-right: var(--mb-0-25);
+  margin-right: var(--mb-0-5);
 }
 
 .qualification__active {
@@ -134,7 +134,7 @@
 
   .qualification__icon  {
     font-size: 18px;
-    margin-right: 10px;
+    margin-right:8px;
   }
 
   
