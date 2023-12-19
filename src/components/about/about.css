@@ -38,7 +38,6 @@
 
 .about__subtitle {
   font-size: var(--tiny-font-size);
-  color: var(--text-color);
 }
 
 .about__description {
