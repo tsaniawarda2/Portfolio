@@ -71,8 +71,21 @@ function Qualification() {
 
                 <div>
                   <span className="qualification__rounder"></span>
+                  <span className="qualification__line"></span>
                 </div>
 
+                <div>
+                  <h3 className="qualification__title">
+                    Product Development and Coding
+                  </h3>
+                  <span className="qualification__subtitle">Skilvul</span>
+                  <div className="qualification__calendar">
+                    <i className="uil uil-calendar-alt"></i> Jul 2021 - Jan 2022
+                  </div>
+                </div>
+              </div>
+
+              <div className="qualification__data">
                 <div>
                   <h3 className="qualification__title">
                     Natural Sciences Major
@@ -83,6 +96,10 @@ function Qualification() {
                   <div className="qualification__calendar">
                     <i className="uil uil-calendar-alt"></i> 2016 - 2019
                   </div>
+                </div>
+
+                <div>
+                  <span className="qualification__rounder"></span>
                 </div>
               </div>
             </div>
@@ -121,21 +138,23 @@ function Qualification() {
 
                 <div>
                   <h3 className="qualification__title">Full stack developer</h3>
-                  <span className="qualification__subtitle">Skilvul</span>
+                  <span className="qualification__subtitle">
+                    BPSDM Provinsi Jawa Barat
+                  </span>
                   <div className="qualification__calendar">
-                    <i className="uil uil-calendar-alt"></i> Jul 2021 - Jan 2022
+                    <i className="uil uil-calendar-alt"></i> Jul 2022 - Aug 2022
                   </div>
                 </div>
               </div>
 
               <div className="qualification__data">
                 <div>
-                  <h3 className="qualification__title">Full stack developer</h3>
+                  <h3 className="qualification__title">Back End Developer</h3>
                   <span className="qualification__subtitle">
-                    BPSDM Provinsi Jawa Barat
+                    Pasundan University
                   </span>
                   <div className="qualification__calendar">
-                    <i className="uil uil-calendar-alt"></i> Jul 2022 - Aug 2022
+                    <i className="uil uil-calendar-alt"></i> Feb 2023 - Oct 2023
                   </div>
                 </div>
 
