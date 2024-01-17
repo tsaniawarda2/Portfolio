@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5a6f8732.css",
-    "main.js": "/Portfolio/static/js/main.6df77f76.js",
+    "main.js": "/Portfolio/static/js/main.a1080375.js",
     "static/media/work5.jpg": "/Portfolio/static/media/work5.2938c897d6ec4a103ef7.jpg",
     "static/media/work4.jpg": "/Portfolio/static/media/work4.52958b4ccbdd9fa80d9c.jpg",
     "static/media/work2.jpg": "/Portfolio/static/media/work2.7d35a2f76b6097721297.jpg",
@@ -9,13 +9,13 @@
     "static/media/profile.png": "/Portfolio/static/media/profile.93a1a6ac8082de62dac5.png",
     "static/media/work3.jpg": "/Portfolio/static/media/work3.7a29b99cf95a952ab6eb.jpg",
     "static/media/about.png": "/Portfolio/static/media/about.41774da98a91b1c82e3a.png",
-    "static/media/CV_Tsania_Warda.pdf": "/Portfolio/static/media/CV_Tsania_Warda.91cf36a7133d3c20c9eb.pdf",
+    "static/media/Template_CV.pdf": "/Portfolio/static/media/Template_CV.09596a103550c1457890.pdf",
     "index.html": "/Portfolio/index.html",
     "main.5a6f8732.css.map": "/Portfolio/static/css/main.5a6f8732.css.map",
-    "main.6df77f76.js.map": "/Portfolio/static/js/main.6df77f76.js.map"
+    "main.a1080375.js.map": "/Portfolio/static/js/main.a1080375.js.map"
   },
   "entrypoints": [
     "static/css/main.5a6f8732.css",
-    "static/js/main.6df77f76.js"
+    "static/js/main.a1080375.js"
   ]
 }
