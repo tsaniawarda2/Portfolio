@@ -58,8 +58,8 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Web Programmer</h3>
         <p className="home__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
-          esse!
+          I am a fresh graduate from Pasundan University majoring in Informatics
+          Engineering with a focus on web programming.
         </p>
         <a href="#contact" className="button button--flex">
           Say Hello

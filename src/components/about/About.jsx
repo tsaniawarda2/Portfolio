@@ -16,15 +16,9 @@ function About() {
           <div className="about__data">
             <Info />
             <p className="about__description">
-              I am a fresh graduate from Pasundan University majoring in
-              Informatics Engineering with a focus on web programming. I have
-              specialization in backend development and database management. I
-              have a great interest in developing API (Application Programming
-              Interface) and aim to become a professional web developer who is
-              competent in creating innovative and efficient software solutions
-              to support the company's business needs. I am a diligent,
-              detail-oriented individual who is ready to take on new challenges
-              in my career.
+              I have specialization in backend development and database
+              management. I have a great interest in developing API (Application
+              Programming Interface) to support the company's needs.
             </p>
 
             <a download="" href={CV} className="button button--flex">

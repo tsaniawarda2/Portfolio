@@ -44,7 +44,7 @@ const Footer = () => {
           </div>
         </div>
         <span className="footer__copy">
-          &#169; Tsaniawarda. All rights reserved
+          Copyright &#169; 2024 Tsania. All Rights Reserved.
         </span>
       </footer>
     </>
