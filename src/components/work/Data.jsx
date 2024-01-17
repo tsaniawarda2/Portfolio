@@ -46,7 +46,7 @@ export const projectsData = [
     image: Work6,
     title: "AIU Made",
     category: "design",
-    link: "https://github.com/tsaniawarda2/itw_final_project_193040143.git",
+    link: "https://aiu-made.netlify.app/",
   },
 ];
 
