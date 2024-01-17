@@ -3,6 +3,7 @@ import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
+import Work6 from "../../assets/work6.jpg";
 
 export const projectsData = [
   {
@@ -22,20 +23,27 @@ export const projectsData = [
   {
     id: 3,
     image: Work3,
+    title: "Buy Me Please",
+    category: "web",
+    link: "https://buymeplease.netlify.app/",
+  },
+  {
+    id: 4,
+    image: Work4,
     title: "L-Apps",
     category: "web",
     link: "https://github.com/tsaniawarda2/AlurAlurBandung",
   },
   {
-    id: 4,
-    image: Work4,
+    id: 5,
+    image: Work5,
     title: "Leviosa Store",
     category: "web",
     link: "https://github.com/tsaniawarda2/pw2020_193040143/tree/master/tubes",
   },
   {
-    id: 5,
-    image: Work5,
+    id: 6,
+    image: Work6,
     title: "AIU Made",
     category: "design",
     link: "https://github.com/tsaniawarda2/itw_final_project_193040143.git",

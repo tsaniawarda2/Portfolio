@@ -16,9 +16,15 @@ function About() {
           <div className="about__data">
             <Info />
             <p className="about__description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-              eaque deserunt dignissimos totam. Repellendus molestias maxime
-              cum, ratione voluptate consequuntur!
+              I am a fresh graduate from Pasundan University majoring in
+              Informatics Engineering with a focus on web programming. I have
+              specialization in backend development and database management. I
+              have a great interest in developing API (Application Programming
+              Interface) and aim to become a professional web developer who is
+              competent in creating innovative and efficient software solutions
+              to support the company's business needs. I am a diligent,
+              detail-oriented individual who is ready to take on new challenges
+              in my career.
             </p>
 
             <a download="" href={CV} className="button button--flex">
