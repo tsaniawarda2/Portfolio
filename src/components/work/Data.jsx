@@ -18,7 +18,7 @@ export const projectsData = [
     image: Work2,
     title: "Web Service Labtif",
     category: "api",
-    link: "https://github.com/tsaniawarda2/WS_LABTIF",
+    link: "https://documenter.getpostman.com/view/18343779/2s93z3gRGU",
   },
   {
     id: 3,
